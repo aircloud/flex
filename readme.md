@@ -1,4 +1,4 @@
-在这个小页面中自己总结了一些初步的flex用法，并且都给了例子，可以直接访问http://115.29.102.81:8090/flex.html
+在这个小页面中自己总结了一些初步的flex用法，并且都给了例子，可以直接访问https://www.10000h.top/flex.html
 查看相关效果。
 
 另外我曾经写过flex的入门博文，http://blog.csdn.net/ul646691993/article/details/52150868#t3
